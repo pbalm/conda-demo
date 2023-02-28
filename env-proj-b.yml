@@ -1,4 +1,4 @@
-name: env_proj_a
+name: env_proj_b
 dependencies:
   - numpy=1.23.5
-  - pandas=1.4.1
+  - pandas=1.4.3
